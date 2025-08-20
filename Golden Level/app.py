@@ -102,5 +102,4 @@ csv = df.to_csv(index=False).encode('utf-8')
 st.download_button("Download CSV", csv, "segmented_customers.csv", "text/csv")
 
 # Footer
-st.markdown("---")
-st.markdown("Made with ❤️ by N. Mariyam — [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourrepo)")
+
