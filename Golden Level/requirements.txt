@@ -1,3 +1,9 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+Numpy
 absl-py==1.4.0
 absolufy-imports==0.3.1
 accelerate==1.10.0
@@ -652,6 +658,7 @@ yfinance==0.2.65
 zict==3.0.0
 zipp==3.23.0
 zstandard==0.24.0
+
 
 
 
